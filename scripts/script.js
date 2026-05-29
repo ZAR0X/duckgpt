@@ -27,7 +27,7 @@ if (window.location.origin.includes("workers.dev")) {
   lightUrl = "https://vauth.github.io/duck-gui/styles/light.css"; // Changeable
 }
 else {
-  apiUrl = "https://duckgpt.iriszarox.workers.dev/chat/"; // Add your own url, get one from here https://github.com/vauth/duckgpt
+  apiUrl = "https://duck.gpt-api.workers.dev/chat/"; // Add your own url, get one from here https://github.com/vauth/duckgpt
   styleUrl = "styles/styles.css";
   lightUrl = "styles/light.css";
 }
